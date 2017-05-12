@@ -1,0 +1,16 @@
+package com.manez.patterns.strategy;
+
+public class MallardDuck extends Duck {
+
+	public MallardDuck(String name) {
+		super(name);
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public void display() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

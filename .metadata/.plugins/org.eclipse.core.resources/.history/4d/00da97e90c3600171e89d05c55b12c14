@@ -1,0 +1,19 @@
+package com.manez.patterns.strategy;
+
+public class DuckSim {
+
+	public static void main(String[] args) {
+		Duck mallard = new MallardDuck("Malli");
+		mallard.display();
+		mallard.swim();
+		mallard.watchMeFly();
+		mallard.makeSomeNoise();
+		
+		Duck modelDuck = new ModelDuck("Dummy");
+		modelDuck.display();
+		modelDuck.swim();
+		modelDuck.watchMeFly();
+		modelDuck.makeSomeNoise();
+	}
+
+}

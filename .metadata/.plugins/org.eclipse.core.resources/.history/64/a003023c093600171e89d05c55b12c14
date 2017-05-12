@@ -1,0 +1,12 @@
+package com.manez.patterns.strategy;
+
+public abstract class Duck {
+	String name;
+	
+	public Duck(String name) {
+		super();
+		this.name = name;
+	}
+
+	public abstract  void display();
+}

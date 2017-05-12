@@ -1,0 +1,22 @@
+package com.manez.patterns.strategy;
+
+public abstract class Duck {
+	String name;
+	QuackBehavior quackBehavior;
+	FlyBehavior flyBehavior;
+	
+	public Duck(String name) {
+		super();
+		this.name = name;
+	}
+
+	public abstract  void display();
+
+	public void watchMeFly(){
+		flyBehavior.fly();
+	}
+	
+	public void makeSomeNoise(){
+		quackBehavior.quack();
+	}
+}

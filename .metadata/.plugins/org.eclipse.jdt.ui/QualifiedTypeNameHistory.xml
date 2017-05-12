@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="HelloWorld"/>
+<fullyQualifiedTypeName name="com.manez.patterns.strategy.QuackBehavior"/>
+<fullyQualifiedTypeName name="com.manez.patterns.strategy.FlyBehavior"/>
+<fullyQualifiedTypeName name="com.manez.patterns.strategy.Squeak"/>
+<fullyQualifiedTypeName name="com.manez.patterns.strategy.MallardDuck"/>
+<fullyQualifiedTypeName name="com.manez.patterns.strategy.NoFly"/>
+<fullyQualifiedTypeName name="com.manez.patterns.strategy.Silent"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="com.manez.patterns.strategy.Duck"/>
+<fullyQualifiedTypeName name="com.manez.patterns.strategy.FlyWithWings"/>
+<fullyQualifiedTypeName name="com.manez.patterns.strategy.ModelDuck"/>
+</qualifiedTypeNameHistroy>
