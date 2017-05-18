@@ -1,0 +1,7 @@
+package com.manez.patterns.strategy.ActionGame;
+
+public abstract class Character {
+	WeaponSkill weaponSkill;
+	protected abstract void fight();
+
+}

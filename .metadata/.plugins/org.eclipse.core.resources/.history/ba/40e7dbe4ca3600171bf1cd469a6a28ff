@@ -1,0 +1,16 @@
+package com.manez.patterns.strategy.ActionGame;
+
+public class King extends Character {
+
+	public King() {
+		weaponSkill = new SwordSkill();
+		name = "King";
+	}
+
+	@Override
+	protected void fight() {
+		weaponSkill.useWeapon();
+
+	}
+
+}

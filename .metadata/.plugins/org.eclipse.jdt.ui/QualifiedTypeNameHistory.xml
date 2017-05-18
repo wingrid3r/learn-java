@@ -7,8 +7,19 @@
 <fullyQualifiedTypeName name="com.manez.patterns.strategy.MallardDuck"/>
 <fullyQualifiedTypeName name="com.manez.patterns.strategy.NoFly"/>
 <fullyQualifiedTypeName name="com.manez.patterns.strategy.Silent"/>
-<fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="com.manez.patterns.strategy.Duck"/>
 <fullyQualifiedTypeName name="com.manez.patterns.strategy.FlyWithWings"/>
 <fullyQualifiedTypeName name="com.manez.patterns.strategy.ModelDuck"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="com.manez.patterns.strategy.RocketFly"/>
+<fullyQualifiedTypeName name="com.manez.patterns.strategy.ActionGame.WeaponSkill"/>
+<fullyQualifiedTypeName name="com.manez.patterns.strategy.ActionGame.KnifeSkill"/>
+<fullyQualifiedTypeName name="com.manez.patterns.strategy.ActionGame.AxeSkill"/>
+<fullyQualifiedTypeName name="com.manez.patterns.strategy.ActionGame.King"/>
+<fullyQualifiedTypeName name="com.manez.patterns.strategy.ActionGame.Queen"/>
+<fullyQualifiedTypeName name="com.manez.patterns.strategy.ActionGame.Knight"/>
+<fullyQualifiedTypeName name="com.manez.patterns.strategy.ActionGame.Character"/>
+<fullyQualifiedTypeName name="com.manez.patterns.strategy.ActionGame.Troll"/>
+<fullyQualifiedTypeName name="com.manez.patterns.strategy.ActionGame.BowAndArrowSkill"/>
+<fullyQualifiedTypeName name="com.manez.patterns.strategy.ActionGame.SwordSkill"/>
 </qualifiedTypeNameHistroy>

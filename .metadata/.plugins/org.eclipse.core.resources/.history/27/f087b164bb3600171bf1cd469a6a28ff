@@ -1,0 +1,15 @@
+package com.manez.patterns.strategy.ActionGame;
+
+public class Troll extends Character {
+
+	public Troll() {
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	protected void fight() {
+		// TODO Auto-generated method stub
+
+	}
+
+}
